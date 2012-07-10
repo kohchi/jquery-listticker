@@ -4,7 +4,7 @@ ticked the li elements of your documents.
 
 This is the jquery plugin that displays li elements like news ticker.
 
-If you want to set the easing option name to the option, you require
+If you want to set the easing option name to the 'easing' option, you require
 including jQuery Easing plugin (http://gsgd.co.uk/sandbox/jquery/easing/).
 
 for example
